@@ -21,4 +21,5 @@ Putting my sleep, diet, and workout habits in GitHub so I can see how they chang
 ### Sunday: rest & recover
 ## How do I make them happen?
 - **Monday-Saturday:** Don't think about it. Just do it.
+  - [“If you’re thinking too much, then you’re not doing enough.”](https://youtu.be/34vRhK6Imw0?si=AS--S1e0fSXAdT7Y)
 - **Sunday:** Reflect upon what I did and how I did, updating this README if needed.
