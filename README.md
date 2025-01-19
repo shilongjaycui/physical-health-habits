@@ -2,22 +2,25 @@
 Putting my sleep, diet, and exercising habits in GitHub so I can see how they change over time
 ## What are they?
 ### Everyday:
-- Get at least 7h of sleep.
+- Get at least 7.5h of sleep.
 - Drink a bottle of [evian](https://www.evian.com/en_us) natural spring water upon waking up.
-- Eat 6 egg whites and 2 egg yolks.
+- Eat 6 egg whites and 3 egg yolks.
 - Have a protein shake with at least 30g of protein.
 - Drink a bottle of [Powerade Zero](https://www.powerade.com/products/powerade-zero).
+### MWF: improve agility & stamina
 - Train for my first chest-to-bar pull-up:
   1. 15x3 [Chest Pulls](https://youtu.be/644NJ6tA7JE?si=GvBM1B5fwheO02Ig&t=18)
-- 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
-### MWF: improve agility & stamina
 - 2-mile run (8mph)
 - soccer warm-up drills
 - soccer stretches
+- 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
 ### TThSa: improve beauty & strength
+- Train for my first chest-to-bar pull-up:
+  1. 15x3 Chest Pulls
 - 60 assisted push-ups
 - 60 assisted pull-ups
 - 60 squats
+- 30 Leg Raises
 ### Sunday: rest & recover
 ## How do I make them happen?
 - **Monday-Saturday:** Don't think about it. Just do it.
