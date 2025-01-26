@@ -7,19 +7,22 @@ Putting my sleep, diet, and exercising habits in GitHub so I can see how they ch
 - Eat 6 egg whites and 3 egg yolks.
 - Have a protein shake with at least 30g of protein.
 - Drink a bottle of [Powerade Zero](https://www.powerade.com/products/powerade-zero).
-### MWF: improve agility & stamina
+- Have some beef jerky.
+### MWF: Building Agility & Stamina
 - Train for my first chest-to-bar pull-up:
   1. 15x3 [Chest Pulls](https://youtu.be/644NJ6tA7JE?si=GvBM1B5fwheO02Ig&t=18)
+  2. 15x3 [Scapula Adductions](https://youtu.be/644NJ6tA7JE?si=umgfYVmGDbu2kuGk&t=83)
 - 2-mile run (8mph)
 - soccer warm-up drills
 - soccer stretches
 - 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
-### TThSa: improve beauty & strength
+### TThSa: Building Beauty & Strength
 - Train for my first chest-to-bar pull-up:
   1. 15x3 Chest Pulls
+  2. 15x3 Scapula Adductions
 - 60 assisted push-ups
 - 60 assisted pull-ups
-- 60 squats
+- 2x20 Close Squats
 - 30 Leg Raises
 ### Sunday: rest & recover
 ## How do I make them happen?
