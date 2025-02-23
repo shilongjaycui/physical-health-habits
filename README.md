@@ -16,29 +16,32 @@ Putting my sleep, diet, exercising, and nursing habits in GitHub so I can see ho
   3. 10x3 [Scapula Depressions in Hanging](https://www.youtube.com/watch?v=644NJ6tA7JE&t=132s)
 - (Nursing) Use [CeraVe](https://www.cerave.com/skincare/cleansers/facial-cleansers) facial cleanser at night.
 - (Nursing) Use hair conditioner at night.
+- (Nursing) Whiten teeth at night.
 
 ### Thrice a week:
 #### (Exercising) Build agility & stamina.
 - 2-mile run (8mph)
 - Cooldown
+- 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
 #### (Exercising) Build beauty & strength.
 - 60 assisted push-ups
 - 60 assisted pull-ups
 - 20x2 Close Squats
-- 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
 
 ### Twice a week:
+- (Diet) Have some fish.
 - (Nursing) Use shampoo.
+
 ### Once a week:
 - (Nursing) Cut my nails.
   
 ### Once a month:
-- 
+- (Nursing) Clean my bedroom.
 
 ### Twice a year:
 - (Nursing) Take an eye exam.
-- (Nursing) Take a dental exam & do the cleaning.
-- (Nursing) Take a comprehensive physical exam.
+- (Nursing) Take a dental exam.
+- (Nursing) Take a physical exam.
 
 ## How do I make them happen?
 - **Monday-Saturday:** Don't think about it. Just do it.
