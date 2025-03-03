@@ -27,6 +27,7 @@ Putting my sleep, diet, exercising, and nursing habits in GitHub so I can see ho
 - 60 assisted push-ups
 - 60 assisted pull-ups
 - 20x2 Close Squats
+- 5 Uneven Squats (each side)
 
 ### Twice a week:
 - (Diet) Have some fish.
