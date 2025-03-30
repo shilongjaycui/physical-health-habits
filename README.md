@@ -11,30 +11,26 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
   - Drink a bottle of [evian](https://www.evian.com/en_us) natural spring water upon waking up.
   - Eat an apple.
   - Eat three eggs.
-  - Have a protein shake with at least 30g of protein.
   - Drink a bottle of [Powerade Zero](https://www.powerade.com/products/powerade-zero).
 - Exercising: Train for my first chest-to-bar pull-up:
   1. 15x3 [Chest Pulls](https://youtu.be/644NJ6tA7JE?si=GvBM1B5fwheO02Ig&t=18)
   2. 15x3 [Scapula Adductions](https://youtu.be/644NJ6tA7JE?si=umgfYVmGDbu2kuGk&t=83)
-  3. 10x3 [Scapula Depressions in Hanging](https://www.youtube.com/watch?v=644NJ6tA7JE&t=132s)
+  3. 15x2 [Scapula Depressions in Hanging](https://www.youtube.com/watch?v=644NJ6tA7JE&t=132s)
 - Nursing:
   - Use hair conditioner in shower.
   - Whiten teeth at night.
   - Use [CeraVe](https://www.cerave.com/skincare/cleansers/facial-cleansers) facial cleanser at night.
 
 ### Three times a week:
-- Exercising: Build agility & stamina.
-  - 2-mile run (8mph)
-  - Cool down
 - Exercising: Build beauty & strength.
   - 60 assisted push-ups
   - 60 assisted pull-ups
   - 20x2 Close Squats
-  - 5 Uneven Squats (each side)
   - 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
 
 ### Twice a week:
 - Eating: Have some fish.
+- Exercising: Run around.
 - Exercising: Bike around.
 - Nursing:
   - Use shampoo.
