@@ -5,6 +5,11 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
 
 ### Daily:
 - Resting:
+  - 30 minutes before sleep:
+    - Turn off WiFi
+    - Put electronics away
+    - Turn off cool light
+    - Read a little
   - Get at least 7.5h of sleep.
   - Take a 15-minute nap during the day, if needed.
 - Eating:
@@ -12,10 +17,6 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
   - Eat an apple.
   - Eat three eggs.
   - Drink a bottle of [Powerade Zero](https://www.powerade.com/products/powerade-zero).
-- Exercising: Train for my first chest-to-bar pull-up:
-  1. 15x3 [Chest Pulls](https://youtu.be/644NJ6tA7JE?si=GvBM1B5fwheO02Ig&t=18)
-  2. 15x3 [Scapula Adductions](https://youtu.be/644NJ6tA7JE?si=umgfYVmGDbu2kuGk&t=83)
-  3. 15x2 [Scapula Depressions in Hanging](https://www.youtube.com/watch?v=644NJ6tA7JE&t=132s)
 - Nursing:
   - Use hair conditioner in shower.
   - Whiten teeth at night.
@@ -32,6 +33,10 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
 - Eating: Have some fish.
 - Exercising: Run around.
 - Exercising: Bike around.
+- Exercising: Train for my first chest-to-bar pull-up:
+  1. 15x3 [Chest Pulls](https://youtu.be/644NJ6tA7JE?si=GvBM1B5fwheO02Ig&t=18)
+  2. 15x3 [Scapula Adductions](https://youtu.be/644NJ6tA7JE?si=umgfYVmGDbu2kuGk&t=83)
+  3. 15x2 [Scapula Depressions in Hanging](https://www.youtube.com/watch?v=644NJ6tA7JE&t=132s)
 - Nursing:
   - Use shampoo.
   - Shave.
