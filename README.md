@@ -13,7 +13,8 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
     - Turn off cool light.
     - Read a little.
   - Get at least 7.5h of sleep.
-    - Protect my cornrows while sleeping by wearing a durag.
+    - Use SheaMoisture's [Coconut & Hibiscus Frizz-Free Curl Mousse](https://www.sheamoisture.com/us/en/p/coconut-&-hibiscus-frizz-free-curl-mousse.html/00764302290612) on my cornrows
+    - Wear a durag.
 - Eating:
   - Drink 2L of water.
     - Drink 500mL of [evian](https://www.evian.com/en_us) natural spring water upon waking up.
@@ -22,12 +23,13 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
   - Drink a bottle of [Powerade Zero](https://www.powerade.com/products/powerade-zero).
   - Have 30g of protein supplements.
 - Nursing:
-  - Protect my cornrows in shower by wearing a hair bonnet.
+  - Sing.
+  - Wearing a hair bonnet while showering.
   - Whiten teeth at night.
   - Use [CeraVe](https://www.cerave.com/skincare/cleansers/facial-cleansers) facial cleanser at night.
 
 ### Three times a week:
-- Exercising: Build beauty & strength.
+- Exercising:
   - 60 assisted push-ups
   - 60 assisted pull-ups
   - 20x2 Close Squats
@@ -35,13 +37,17 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
 
 ### Twice a week:
 - Eating: Have some fish.
-- Exercising: Build stamina.
+- Exercising:
   - Run around.
   - Bike around.
 - Nursing: Shave.
 
 ### Once a week:
-- Nursing: Cut my nails.
+- Nursing:
+  - Cut my nails.
+  - Vacuum my ears.
+  - Wipe my smartphone.
+  - Wash and dry my earplugs.
   
 ### Once a month:
 - Nursing: Clean my bedroom.
