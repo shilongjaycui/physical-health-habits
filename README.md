@@ -24,7 +24,7 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
   - Have 30g of protein supplements.
 - Nursing:
   - Sing.
-  - Wearing a hair bonnet while showering.
+  - Wear a hair bonnet while showering.
   - Whiten teeth at night.
   - Use [CeraVe](https://www.cerave.com/skincare/cleansers/facial-cleansers) facial cleanser at night.
 
