@@ -3,7 +3,7 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
 
 ## What are they?
 
-### Daily:
+### Daily (optional on Sunday):
 - Resting:
   - Take a 15-minute nap during the day, if needed.
   - 3 hours before sleep: Stop drinking water.
@@ -24,9 +24,8 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
   - Sing.
   - Whiten teeth at night.
   - Use [CeraVe](https://www.cerave.com/skincare/cleansers/facial-cleansers) facial cleanser at night.
-
-### Three times a week:
 - Exercising:
+  - Run/bike around
   - 60 assisted push-ups
   - 60 assisted pull-ups
   - 20x2 Close Squats
@@ -34,15 +33,12 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
 
 ### Twice a week:
 - Eating: Have some fish.
-- Exercising:
-  - Run around.
-  - Bike around.
-- Nursing: Shave.
 
 ### Once a week:
 - Nursing:
   - Cut my nails.
   - Vacuum my ears.
+  - Shave.
   - Wipe my smartphone.
   - Wash and dry my earplugs.
   
