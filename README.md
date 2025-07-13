@@ -7,11 +7,6 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
 - Resting:
   - Take a 15-minute nap during the day, if needed.
   - 3 hours before sleep: Stop drinking water.
-  - 30 minutes before sleep:
-    - Turn off WiFi.
-    - Put electronics away.
-    - Turn off cool light.
-    - Read a little.
   - Get at least 7.5h of sleep.
 - Eating:
   - Drink 2L of water.
@@ -26,8 +21,7 @@ Putting my resting, eating, exercising, and nursing habits in GitHub so I can se
   - Use [CeraVe](https://www.cerave.com/skincare/cleansers/facial-cleansers) facial cleanser at night.
 - Exercising:
   - Run/bike around
-  - 60 assisted push-ups
-  - 60 assisted pull-ups
+  - 60 assisted push-ups/pull-ups
   - 20x2 Close Squats
   - 30 [Leg Raises](https://www.youtube.com/watch?v=tzfu4euI2Jw&t=369s)
 
